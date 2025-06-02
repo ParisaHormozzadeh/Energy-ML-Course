@@ -1,4 +1,4 @@
-# Energy-ML-Course
+# HandsOn-ML
 A hands-on course for beginners to learn Machine Learning with Python. Get practical with NumPy, Pandas, Scikit-learn, and Statsmodels. Learn data preprocessing, exploratory data analysis (EDA), time series, classification, regression, and clustering – all using one energy dataset.
 
 ## Course Outline
@@ -31,11 +31,11 @@ A hands-on course for beginners to learn Machine Learning with Python. Get pract
 - Linear, KNN, decision tree regression, performance metrics
 
 ### [Chapter 10: Clustering](https://github.com/ParisaHormozzadeh/Energy-ML-Course/blob/main/10-%20%20Chapter%2010_Clustering.ipynb)
-- K-means, clustering visualization, Application in recognizing high and low power demand periods 
+- K-means, clustering visualization, identifying high and low energy demand periods
 
 ---
 
 **Clone the repository**:
 ```bash
-git clone https://github.com/ParisaHormozzadeh/Energy-ML-Course.git
-cd Energy-ML-Course
+git clone https://github.com/ParisaHormozzadeh/HandsOn-ML.git
+cd HandsOn-ML
