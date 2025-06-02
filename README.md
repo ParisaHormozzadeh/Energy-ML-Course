@@ -16,7 +16,7 @@ An introductory data science course covering NumPy, Pandas, Scikit-learn, and St
 - Handling missing data, encoding, scaling, train-test split
 
 ### Chapter 5: Intro to Machine Learning with Scikit-learn
-- ML workflow, model training, evaluation, logistic regression, decision trees
+- ML workflow, model training, evaluation
 
 ### Chapter 6: Exploratory Data Analysis (EDA)
 - Summary stats, visualizations, outlier detection
