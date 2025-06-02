@@ -1,5 +1,5 @@
 # Energy-ML-Course
-An introductory course covering NumPy, Pandas, Scikit-learn, and Statsmodels. Learn preprocessing, EDA, time series, classification, regression, and clustering with real energy data. Designed for beginners.
+An introductory data science course covering NumPy, Pandas, Scikit-learn, and Statsmodels. Learn preprocessing, EDA, time series, classification, regression, and clustering with real energy data. Designed for beginners.
 
 ## Course Outline
 
