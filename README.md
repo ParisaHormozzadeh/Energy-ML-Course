@@ -31,7 +31,7 @@ A hands-on course for beginners to learn Machine Learning with Python. Get pract
 - Linear, KNN, decision tree regression, performance metrics
 
 ### [Chapter 10: Clustering](https://github.com/ParisaHormozzadeh/Energy-ML-Course/blob/main/10-%20%20Chapter%2010_Clustering.ipynb)
-- K-means, clustering visualization, identifying high and low energy demand periods
+- K-means, clustering visualization, identifying labels for classification models
 
 ---
 
